@@ -22,27 +22,27 @@ body {
 /* Default Link Color */
 
 a, .la-ball-triangle-path {
-    color:#FF3131;
+    color:#E7483C;
 }
 
 a:hover, #header.nav-solid nav a:hover {
-    color:#FF3131;
+    color:#E7483C;
 }
 
 /* Default Icon Color */
 
 .icon i {
-    color:#FF3131;
+    color:#E7483C;
 }
 
 /* Border Color */
 
 #banner .section-heading:before, .testimonial.classic footer:before {
-    background: #FF3131;
+    background: #E7483C;
 }
 
 .pricing-block-content:hover {
-    border-color:#FF3131;
+    border-color:#E7483C;
 }
 
 
@@ -54,7 +54,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Transparent Navigation Color on a Banner */
 
 #header nav a, #header i {
-    color:#FF3131;
+    color:#E7483C;
 }
 
 
@@ -68,8 +68,8 @@ a:hover, #header.nav-solid nav a:hover {
 /* Navigation Active State */
 
 #header.nav-solid .active {
-    color: #FF3131;
-    border-color: #FF3131;
+    color: #E7483C;
+    border-color: #E7483C;
 }    
 
 
@@ -82,7 +82,7 @@ a:hover, #header.nav-solid nav a:hover {
 /* Primary Background and Text Colors */
 
 .primary-color, .featured .pricing {
-    background-color:#FF3131;
+    background-color:#E7483C;
 }
 
 .primary-color, .primary-color .section-title, .primary-color .section-subtitle, .featured .pricing, .featured .pricing p {
@@ -90,7 +90,7 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#FF3131;
+    background:#E7483C;
     content:"";
     display:block;
     width:30px;
@@ -279,8 +279,8 @@ h6 {
 /* Button Hover Color */
 
 .button:hover,  input[type="submit"]:hover {
-    border-color:#FF3131;
-    color:#FF3131;
+    border-color:#E7483C;
+    color:#E7483C;
 }
 
 
@@ -306,8 +306,8 @@ h6 {
 /* Button Hover Color */
 
 #banner .button:hover {
-    color:#FF3131;
-    border-color:#FF3131;
+    color:#E7483C;
+    border-color:#E7483C;
 }
 
 
