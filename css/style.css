@@ -2328,5 +2328,28 @@ blockquote {
 }
 
 
+---------------------------------------------------------------------------
+MOBILE MEDIA QUERY ADDITIONS
+---------------------------------------------------------------------------
+
+.section-heading h1 {
+    font-size: 3rem; /* Default desktop size */
+}
+
+@media screen and (max-width: 768px) {
+    .section-heading h1 {
+        font-size: 2rem; /* Smaller tablets and large phones */
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .section-heading h1 {
+        font-size: 1.5rem; /* Mobile phones */
+    }
+}
+
+---------------------------------------------------------------------------
+
+
 
 
